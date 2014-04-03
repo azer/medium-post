@@ -1,0 +1,27 @@
+{
+  "name": "medium-post",
+  "version": "0.0.0",
+  "description": "Get a Medium post",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "devDependencies": {
+    "prova": "*"
+  },
+  "keywords": [
+    "medium",
+    "medium.com",
+    "blog",
+    "post"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/medium-post.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "get-json": "0.0.1"
+  }
+}
